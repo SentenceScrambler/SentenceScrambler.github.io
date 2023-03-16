@@ -1,0 +1,79 @@
+﻿body {
+	font-family: verdana, sans-serif;
+	background-color: #f5e49c;
+	background-image: url("images/texturise_wood_012.jpg");
+	text-align: center;
+}
+
+.maindiv {
+	background-image: url("images/hessian.jpg");
+	margin: .5em;
+	padding: .5em;
+}
+
+h1, p, textarea {
+	margin: 1em;
+}
+
+h1 {
+	background-color: white;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input {
+	margin: 0.4em;
+}
+
+textarea {
+	width: 80%;
+	height: 200px;
+}
+
+#status {
+	background-image: url("images/texturise_paper_003.jpg");
+	font-size: 0.8em;
+	color: white;
+	font-weight: 600;
+	padding: 0.2em;
+	margin: 0.2em;
+}
+
+code {
+	margin: 1em;
+	padding: 0.4em;
+}
+
+.gobtn {
+	background-image: url("images/texturise_paper_003.jpg");
+	color: white;
+	padding: 0.4em;
+	font-size: 1.2em;
+}
+
+#optsdiv {
+	text-align: left;
+	border: 1px dashed black;
+	width: 80%;
+	background-image: url("images/graph.jpg");
+	padding: 0.6em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.outboxdiv {
+	text-align: left;
+	width: 90%;
+	padding: .6em;
+	border: 1px dashed black;
+	background-image: url("images/texturise_paper_006.jpg");
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	line-height: 2;
+}
+
+.smalltb {
+	width: 80px;
+}
